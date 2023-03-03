@@ -4,14 +4,14 @@ Node JS Intern Assignment
 <h4>Objective: Build a RESTful API that can /create/read/update/delete Product and Category data from a
 persistence database.</h4>
 
-<h5>Required Applications/package/framework</h5>
+<h4>Required Applications/package/framework</h4>
 <ul>
-    <li>Node JS</li>
-    <li>Mongo DB</li>
-    <li>Express Js</li>
-    <li>Mongoose</li>
-    <li>Body-parser</li>
+    <li>Node JS - JavaScript cross-platform runtime environment </li>
+    <li>Mongo DB - No SQL document database</li>
+    <li>Express Js - Backend Nodejs Framework</li>
+    <li>Mongoose - Object modeling tool for MongoDB.</li>
+    <li>Body-parser - process data sent in an HTTP request body</li>
 </ul>
 
-<h5>PostMan Documentation</h5>
-<a href="https://documenter.getpostman.com/view/26157365/2s93CUKAzg">View Documentation</a>
+<h4>Postman Documentation</h4>
+<a href="https://documenter.getpostman.com/view/26157365/2s93CUKAzg">View Postman Documentation</a>
