@@ -11,6 +11,7 @@ persistence database.</h4>
     <li>Express Js - Backend Nodejs Framework</li>
     <li>Mongoose - Object modeling tool for MongoDB.</li>
     <li>Body-parser - process data sent in an HTTP request body</li>
+    <li>DotEnv - manage environment variables</li>
 </ul>
 
 <h4>Postman Documentation</h4>
