@@ -19,3 +19,44 @@ persistence database.</h4>
 
 <h4>API Demo Link</h4>
 https://assignment-6zyh.onrender.com
+
+<h3>Create New Product and Category</h3>
+<span>POST Request => https://assignment-6zyh.onrender.com/api/v1/create</span>
+<span>Example =></span>
+<pre>
+{
+    "productName":"Demo Product2",
+    "qtyPerUnit":10,
+    "unitPrice":20000,
+    "unitInStock":200,
+    "discontinued":"yes",
+    "categoryName":"Demo Category2"
+}
+</pre>
+<h3>Read One Product</h3>
+<p>GET Request => https://assignment-6zyh.onrender.com/api/v1/read/PRODUCT_ID</p>
+<span>Example =></span>
+<pre>
+https://assignment-6zyh.onrender.com/api/v1/read/6402dc96fe130fc6c4fb3fb6
+</pre>
+
+<h3>Read All Product</h3>
+<p>GET Request => https://assignment-6zyh.onrender.com/api/v1/readAll</p>
+<span>Example =></span>
+<pre>
+https://assignment-6zyh.onrender.com/api/v1/readAll
+</pre>
+
+<h3>Update Product</h3>
+<p>PUT Request => https://assignment-6zyh.onrender.com/api/v1/update/PRODUCT_ID</p>
+<span>Example =></span>
+<pre>
+ https://assignment-6zyh.onrender.com/api/v1/update/6402dc96fe130fc6c4fb3fb6
+</pre>
+
+<h3>Delete Product</h3>
+<p>DELETE Request => https://assignment-6zyh.onrender.com/api/v1/delete/PRODUCT_ID</p>
+<span>Example =></span>
+<pre>
+ https://assignment-6zyh.onrender.com/api/v1/delete/6402dc96fe130fc6c4fb3fb6
+</pre>
