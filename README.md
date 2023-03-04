@@ -21,7 +21,7 @@ persistence database.</h4>
 https://assignment-6zyh.onrender.com
 
 <h3>Create New Product and Category</h3>
-<span>POST Request => https://assignment-6zyh.onrender.com/api/v1/create</span>
+<p>POST Request => https://assignment-6zyh.onrender.com/api/v1/create</p>
 <span>Example =></span>
 <pre>
 {
